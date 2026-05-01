@@ -1,0 +1,13 @@
+{
+  "name": "@pagecraft/content",
+  "version": "1.0.0",
+  "description": "Hook React para consumir conteúdo dinâmico do PageCraft (Supabase) com realtime.",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "files": ["index.js", "README.md"],
+  "peerDependencies": {
+    "react": ">=18",
+    "@supabase/supabase-js": ">=2"
+  }
+}
